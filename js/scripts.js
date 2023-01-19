@@ -1,7 +1,9 @@
 //business logic
-function firstLast(letter1,letter2) {
-const first = sentence.charAt(0);
-const last = sentence.charAt(sentence.length - 1);
+function firstLast(sentence) {
+sentence.charAt(0) + sentence.toUpperCase();
+const letter1 = sentence.charAt(0);
+letter1.toUpperCase();
+sentence.charAt(sentence.length - 1);
 }
 
 
